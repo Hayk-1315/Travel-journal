@@ -1,6 +1,7 @@
 {
-  "name": "Scrim-s0rggpvi0g",
-  "description": "https://v2.scrimba.com/s0rggpvi0g",
+  "name": "travel-journal",
+  "version": "1.0.0",
+  "description": "A simple travel journal app built with React as part of my Scrimba learning",
   "scripts": {
     "watch": "webpack -w",
     "build": "webpack"
@@ -15,5 +16,13 @@
     "babel-loader": "^7.0",
     "babel-preset-env": "*",
     "babel-preset-react": "*"
-  }
+  },
+  "keywords": [
+    "react",
+    "travel",
+    "journal",
+    "scrimba"
+  ],
+  "author": "Albert Khudaverdyan",
+  "license": "MIT"
 }
